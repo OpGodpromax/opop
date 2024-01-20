@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-size: cover;
+    padding-bottom: 100px;
+    background-position: top;
+    padding-right: 300px;
+}
+
+
+
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 200px;
+    height: 75px;
+    float: left;
+
+}
+
+.logo {
+    width: 100%;
+    position: sticky;
+    text-align: left;
+    font-size: 35px;
+    padding-bottom: 200px;
+    padding-right: 1000px;
+    color: rgb(88, 84, 78);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading {
+    margin: 0px;
+    width: 124.3%;
+    font-size: 30px;
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+}
+
+ul li{
+    list-style: none;
+    margin-top: 2px;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: azure;
+}
+ 
+ul li a:hover{
+    background-color: aquamarine;
+    color: azure;
+} 
+
+.iconnn{
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    
+   
+    margin-right: 200px;
+    
+    
+}
+
+#start{
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px black;
+    
+}
+
+#start1{
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+#start2{
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.button{
+    bottom: 0px;
+    margin-top: 200px;
+    margin-left: 300px;
+    letter-spacing: 100px;
+}
+
+.op{
+    width: 280px;
+    height: 70px;
+    margin-top: 20px;
+    margin-right: 70px;
+    box-shadow: 5px 5px 5px 5px aqua;
+    
+
+}
+
+.copy_right_footer{
+bottom: 0;
+color: rgb(255, 255, 255);
+font-size: 25px;
+margin-top: 130px;
+margin-right: 1000px;
+line-height: 3;
+
+}
+
+
+
+
